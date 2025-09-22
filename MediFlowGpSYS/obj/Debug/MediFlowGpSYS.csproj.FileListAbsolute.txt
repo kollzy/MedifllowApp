@@ -1,0 +1,1156 @@
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.DoctorsMenu.resources
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.PatientsMenu.resources
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\RE Prototype\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.DoctorsMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.PatientsMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Memory.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CopyComplete
+C:\Users\t00228562\Downloads\MediFlowGpSYS (1)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmConnect.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Memory.xml
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmConnect.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.DoctorsMenu.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.PatientsMenu.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228562\Downloads\OneDrive_2024-02-14 (1)\MediFlowGpSYS (2)\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CopyComplete
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Memory.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmConnect.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.DoctorsMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.PatientsMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlow.B7DE7056.Up2Date
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Memory.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmConnect.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.DoctorsMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.PatientsMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CopyComplete
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Memory.dll
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Memory.xml
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmConnect.resources
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.DoctorsMenu.resources
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.PatientsMenu.resources
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CopyComplete
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+D:\Projet Fiverr\gigs 06\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Memory.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmConnect.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.DoctorsMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.PatientsMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS3\MediFlowGpSYS3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CopyComplete
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\System.Memory.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\System.Memory.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmConnect.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.DoctorsMenu.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.PatientsMenu.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlow.B7DE7056.Up2Date
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\T00228562\Downloads\MediFlowGpSYS3s\MediFlowGpSYS3s\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\System.Memory.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmConnect.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.DoctorsMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.PatientsMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlow.B7DE7056.Up2Date
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYS3s3\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmConnect.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.DoctorsMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.PatientsMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\System.Memory.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS5\MediFlowGpSYS5\MediFlowGpSYS\obj\Debug\MediFlow.B7DE7056.Up2Date
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Memory.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Memory.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmConnect.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.DoctorsMenu.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.PatientsMenu.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlow.B7DE7056.Up2Date
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\T00228562\Downloads\MediFlowGpSYS8\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Memory.dll
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Memory.xml
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmConnect.resources
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.DoctorsMenu.resources
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.PatientsMenu.resources
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlow.B7DE7056.Up2Date
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\T00228562\Downloads\JuliusKehindeSEProject\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Memory.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmConnect.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.DoctorsMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.PatientsMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlow.B7DE7056.Up2Date
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYS8 (1)\MediFlowGpSYS8\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Memory.dll
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Memory.xml
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmConnect.resources
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.DoctorsMenu.resources
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.PatientsMenu.resources
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CopyComplete
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+D:\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Memory.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Memory.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmConnect.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.DoctorsMenu.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.PatientsMenu.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlow.B7DE7056.Up2Date
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\T00228562\Downloads\MediFlowGpSYS9\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\System.Memory.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\System.Memory.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmConnect.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.DoctorsMenu.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.PatientsMenu.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CopyComplete
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\T00228562\Downloads\MediFlowGpSYS12\MediFlowGpSYS12\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS13\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS13\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS13\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmConnect.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS13\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS13\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS13\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS13\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.DoctorsMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS13\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS13\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS13\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS13\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS13\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS13\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS13\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS13\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.PatientsMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS13\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS13\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS13\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS13\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS13\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS13\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYS13\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmConnect.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMedicalCardAnalysis.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.DoctorsMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmYearlyRevenue.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.PatientsMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\System.Memory.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS14\MediFlowGpSYS\obj\Debug\MediFlow.B7DE7056.Up2Date
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmConnect.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMedicalCardAnalysis.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.DoctorsMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmYearlyRevenue.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.PatientsMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\System.Memory.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS15\MediFlowGpSYS\obj\Debug\MediFlow.B7DE7056.Up2Date
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Memory.dll
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Memory.xml
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmConnect.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMedicalCardAnalysis.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.DoctorsMenu.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmSetVisitNotes.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmYearlyRevenue.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.PatientsMenu.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlow.B7DE7056.Up2Date
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\kolaw\Downloads\MediFlowGpSYS16\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Memory.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Memory.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMedicalCardAnalysis.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmSetVisitNotes.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmYearlyRevenue.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlow.B7DE7056.Up2Date
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\T00228562\Downloads\MediFlowGpSYS17\MediFlowGpSYS17\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Memory.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMedicalCardAnalysis.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmSetVisitNotes.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmYearlyRevenue.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlow.B7DE7056.Up2Date
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Memory.xml
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMedicalCardAnalysis.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmSetVisitNotes.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmYearlyRevenue.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228562\Downloads\OneDrive_2024-08-02\SEP_ Julius_Kehinde(V1)\SEP_ Julius_Kehinde\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlow.B7DE7056.Up2Date
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Memory.xml
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMedicalCardAnalysis.resources
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmSetVisitNotes.resources
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmYearlyRevenue.resources
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228562\Documents\MediFlowGpSYS16\MediFlowGpSYS\obj\Debug\MediFlow.B7DE7056.Up2Date
+C:\Users\kolaw\Downloads\MediFlowGpSYSRCA\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\kolaw\Downloads\MediFlowGpSYSRCA\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYSRCA\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYSRCA\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYSRCA\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMedicalCardAnalysis.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYSRCA\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYSRCA\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYSRCA\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYSRCA\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYSRCA\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYSRCA\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYSRCA\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYSRCA\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmSetVisitNotes.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYSRCA\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYSRCA\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmYearlyRevenue.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYSRCA\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYSRCA\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYSRCA\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\kolaw\Downloads\MediFlowGpSYSRCA\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\kolaw\Downloads\MediFlowGpSYSRCA\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\kolaw\Downloads\MediFlowGpSYSRCA\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\kolaw\Downloads\MediFlowGpSYSRCA\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.AssemblyReference.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmCancelAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMakeAppointment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMedicalCardAnalysis.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientDereg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmMainMenu.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientsList.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordArrivalDepartures.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordPayment.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmRecordVisitNotes.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmSetVisitNotes.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.FrmUpdate.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmYearlyRevenue.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.Properties.Resources.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmDoctorReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.frmPatientReg.resources
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.GenerateResource.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe.config
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.exe
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\MediFlowGpSYS.pdb
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\System.Text.Json.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\System.Buffers.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\System.Memory.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\bin\Debug\System.ValueTuple.xml
+C:\Users\t00228562\Downloads\MediFlowGpSYSPro\MediFlowGpSYSPro\MediFlowGpSYSRCA\MediFlowGpSYS\obj\Debug\MediFlow.B7DE7056.Up2Date
